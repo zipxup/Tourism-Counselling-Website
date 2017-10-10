@@ -1,0 +1,22 @@
+#divSCA {
+	position: absolute;
+	width: 700px;
+	height: 500px;
+	font-size: 12px;
+	background: #fff;
+	border: 0px solid #000;
+	z-index: 10001;
+	display: none;
+}
+
+body a:link {
+	text-decoration: none;
+}
+
+body a:HOVER {
+	text-decoration: none;
+}
+
+body a:VISITED {
+	text-decoration: none;
+}

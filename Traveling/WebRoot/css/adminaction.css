@@ -1,0 +1,223 @@
+body {
+	background-color: #ebe8e1;
+	padding-left: 18%;
+	padding-right: 15%;
+}
+
+body a:link {
+	text-decoration: none;
+}
+
+body a:HOVER {
+	text-decoration: none;
+}
+
+body a:VISITED {
+	text-decoration: none;
+}
+
+.nav,.nav ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+.nav a {
+	text-decoration: none;
+}
+
+.nav {
+	font-family:STKaiti, sans-serif;
+	font-size: 16x;
+	margin: 0 100px;
+	text-align: center;
+}
+
+.nav a b {
+	color: black;
+	font-weight: normal;
+	display: block;
+	padding: 5px 0;
+	margin: 1px 1px 2px 1px;
+	border: 1px solid #bbb;
+}
+
+.nav ul a b {
+	margin: 0 1px;
+	border-width: 0 1px;
+}
+
+.nav ul a b.top {
+	margin: 0 1px;
+	border-width: 1px 1px 0 1px;
+}
+
+.nav ul a b.bottom {
+	margin: 0 1px;
+	border-width: 0 1px 1px 1px;
+}
+
+.nav .nav4 a b,.nav .nav4 .fly a b {
+	background-color: white;
+}
+
+.nav4 {
+	width: 80px;
+}
+
+.nav4 a {
+	width: 80px;
+	margin-right: -79px;
+}
+
+.nav4 ul {
+	left: -15px;
+	top: 0;
+} /* center the dropdown */
+.nav4 ul a {
+	width: 110px;
+	margin-right: -109px;
+}
+
+.nav4 ul ul {
+	left: auto;
+	right: 110px;
+} /* position the flyouts left */
+.nav4a ul a {
+	width: 80px;
+	margin-right: -79px;
+}
+
+.nav4 .nav4a ul {
+	right: 80px;
+}
+
+.nav4a ul ul {
+	right: 80px;
+}
+
+.nav li {
+	float: left;
+}
+
+.nav ul {
+	float: left;
+	position: relative;
+	z-index: 20;
+}
+
+.nav ul li {
+	clear: left;
+}
+
+.nav a {
+	position: relative;
+	display: block;
+}
+
+.nav a.main {
+	float: left;
+	margin-top: 10000px;
+}
+
+.nav .drop,.nav .fly {
+	margin-top: -10000px;
+}
+
+.nav ul {
+	margin-bottom: -5000px;
+}
+
+.nav a:hover,.nav a:focus,.nav a:active {
+	margin-right: 0;
+	z-index: 10;
+	outline: 0;
+}
+
+.nav a:hover b,.nav a:focus b,.nav a:active b,.nav .nav2 a:hover b,.nav .nav2 a:focus b,.nav .nav2 a:active b,.nav .nav3 a:hover b,.nav .nav3 a:focus b,.nav .nav3 a:active b,.nav .nav4 a:hover b,.nav .nav4 a:focus b,.nav .nav4 a:active b
+	{
+	cursor: pointer;
+	background-color: #ebe8e1;
+}
+
+.nav2 ul a:hover,.nav2 ul a:focus,.nav2 ul a:active {
+	margin-right: -100px;
+}
+
+.nav2a ul a:hover,.nav2a ul a:focus,.nav2a ul a:active {
+	margin-right: -20px;
+}
+
+.nav2b ul a:hover,.nav2b ul a:focus,.nav2b ul a:active {
+	margin-right: 0;
+}
+
+.nav2c ul a:hover,.nav2c ul a:focus,.nav2c ul a:active {
+	margin-right: 10px;
+}
+
+.nav3 ul a:hover,.nav3 ul a:focus,.nav3 ul a:active {
+	margin-right: -20px;
+}
+
+.nav3a ul a:hover,.nav3a ul a:focus,.nav3a ul a:active {
+	margin-right: 20px;
+}
+
+.nav4 ul a:hover,.nav4 ul a:focus,.nav4 ul a:active {
+	margin-right: -30px;
+}
+
+.nav4a ul a:hover,.nav4a ul a:focus,.nav4a ul a:active {
+	margin-right: 0;
+}
+
+#top1 {
+	background-color: white;
+	text-align: right;
+	padding-left: 70%;
+	width: 100%;
+	clear: none;
+}
+
+#center {
+	background-color: white;
+	clear: none;
+}
+
+#center_one image {
+	width: 360px;
+	height: 300px;
+}
+
+#center_one {
+	background-image: url('../image/templatemo_content_title.png');
+	background-repeat: no-repeat;
+}
+
+#li {
+	width: 150px;
+	padding-left: 40px;
+}
+
+#li a {
+	text-decoration: none;
+	position: relative;
+	display: block;
+}
+
+#li a span {
+	display: none;
+}
+
+#li a:hover span {
+	position: absolute;
+	top: -40px;
+	background-color: #FFF;
+	display: block;
+	width: 300px;
+	height: 100px;
+	color: #000;
+	overflow: hidden;
+	border: 1px #ebe8e1 solid;
+}

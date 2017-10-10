@@ -1,0 +1,24 @@
+body a:link {
+	text-decoration: none;
+}
+
+body a:HOVER {
+	text-decoration: none;
+}
+
+body a:VISITED {
+	text-decoration: none;
+}
+
+#link {
+	font-size: 13px;
+	clear: none;
+}
+
+#link a:link {
+	text-decoration: none;
+}
+
+#center {
+	background-color: white;
+}

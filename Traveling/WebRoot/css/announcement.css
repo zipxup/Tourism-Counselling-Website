@@ -1,0 +1,39 @@
+body {
+	background-color: white;
+	padding-left: 19%;
+	padding-right: 15%;
+	margin: 0px;
+}
+
+#div1 {
+	text-align: right;
+}
+
+#div2 {
+	background-color: white;
+	font-size: 18px;
+	padding-left: 50px;
+	height: 420px;
+}
+
+#div3 {
+	text-align: right;
+}
+
+#div4 {
+	background-color: white;
+	height: 420px;
+	padding: 30px;
+}
+
+#td1 {
+	width: 200px;
+}
+
+#td2 {
+	width: 600px;
+}
+
+#id {
+	padding-left: 30px;
+}

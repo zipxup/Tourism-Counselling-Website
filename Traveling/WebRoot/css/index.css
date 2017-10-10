@@ -1,0 +1,28 @@
+#center {
+	background-color: white;
+	height: 450px;
+	font-size: 30px;
+}
+#center1 {
+	background-color: white;
+	height: 450px;
+	font-size: 30px;
+	text-align:center;
+}
+
+#bottom {
+	font-size: 13px;
+}
+
+#bottom_one {
+	float: left;
+	font-size: 15px;
+}
+
+#bottom_tow {
+	float: left;
+	width: 550px;
+	padding-left: 300px;
+	text-align: right;
+	font-size: 15px;
+}

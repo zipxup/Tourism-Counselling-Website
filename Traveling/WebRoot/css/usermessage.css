@@ -1,0 +1,48 @@
+body a:link {
+	text-decoration: none;
+}
+
+body a:HOVER {
+	text-decoration: none;
+}
+
+body a:VISITED {
+	text-decoration: none;
+}
+
+#img img {
+	width: 280px;
+	height: 260px;
+}
+
+#li img {
+	height: 20px;
+	width: 20px;
+}
+
+#li {
+	background-repeat: repeat-y;
+	background-image: url("../image/background.jpg");
+	height: 100px;
+}
+
+#link {
+	font-size: 13px;
+}
+
+#link a:link {
+	text-decoration: none;
+}
+
+#center {
+	background-color: white;
+}
+
+.td1 {
+	padding-left: 30px;
+	padding-top: 20px;
+}
+
+.td2 {
+	padding-left: 150px;
+}

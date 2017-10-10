@@ -1,0 +1,23 @@
+body {
+	font-size: 13px;
+	background-color: #ebe8e1;
+	background-image: url(../image/bg.jpg);
+	padding-right: 15%;
+	margin: 0px;
+}
+
+body a:link {
+	text-decoration: none;
+}
+
+body a:HOVER {
+	text-decoration: none;
+}
+
+body a:VISITED {
+	text-decoration: none;
+}
+
+.aw {
+	padding-left: 280px;
+}

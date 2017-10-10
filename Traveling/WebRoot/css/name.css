@@ -1,0 +1,55 @@
+#link {
+	font-size: 13px;
+}
+
+body a:link {
+	text-decoration: none;
+}
+
+body a:HOVER {
+	text-decoration: none;
+}
+
+body a:VISITED {
+	text-decoration: none;
+}
+
+#link a:link {
+	text-decoration: none;
+}
+
+#center {
+	background-color: white;
+	text-align: center;
+}
+
+.td {
+	width: 150px;
+}
+
+#li {
+	width: 150px;
+	padding-left: 40px;
+}
+
+#li a {
+	text-decoration: none;
+	position: relative;
+	display: block;
+}
+
+#li a span {
+	display: none;
+}
+
+#li a:hover span {
+	position: absolute;
+	top: -40px;
+	background-color: #FFF;
+	display: block;
+	width: 300px;
+	height: 150px;
+	color: #000;
+	overflow: hidden;
+	border: 1px #ebe8e1 solid;
+}

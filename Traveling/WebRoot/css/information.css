@@ -1,0 +1,56 @@
+body a:link {
+	text-decoration: none;
+}
+
+body a:HOVER {
+	text-decoration: none;
+}
+
+body a:VISITED {
+	text-decoration: none;
+}
+
+#link {
+	font-size: 15px;
+	font-family:STKaiti;
+}
+
+#center {
+	background-color: white;
+}
+
+.table {
+	width: 100%;
+	height: 100%;
+}
+
+table image {
+	width: 380px;
+	height: 320px;
+}
+
+table div {
+	
+}
+
+.td1 {
+	width: 380px;
+	height: 320px;
+	padding: 20px;
+	font-family:STKaiti;
+}
+
+.td2 {
+	padding-left: 30px;
+	font-family:STKaiti;
+}
+
+.td3 {
+	padding-left: 370px;
+	font-family:STKaiti;
+}
+
+#bao {
+	text-align: right;
+	color: white;
+}

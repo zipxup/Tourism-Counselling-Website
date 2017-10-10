@@ -1,0 +1,61 @@
+#center1 {
+	font-size: 12px;
+	text-align: left;
+}
+
+#center1 a:link {
+	text-decoration: none;
+}
+
+body {
+	margin: 10px auto;
+}
+
+body a:link {
+	text-decoration: none;
+}
+
+body a:HOVER {
+	text-decoration: none;
+}
+
+body a:VISITED {
+	text-decoration: none;
+}
+
+#box a image {
+	width: 180px;
+	height: 150px;
+	border: 0px;
+}
+
+.box {
+	margin: 0 auto;
+	text-align: left;
+	width: 800px;
+	background-color: white;
+}
+
+h3 {
+	margin: 0;
+	padding: 0 0 .3em;
+}
+
+p {
+	margin: 0;
+	padding: 0 0 .5em;
+}
+
+.pane {
+	background: #edf5e1;
+	padding: 10px 20px 10px;
+	position: relative;
+	border-top: solid 2px #c4df9b;
+}
+
+.pane .delete {
+	position: absolute;
+	top: 10px;
+	right: 10px;
+	cursor: pointer;
+}

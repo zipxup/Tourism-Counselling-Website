@@ -1,0 +1,28 @@
+body {
+	text-decoration: none;
+}
+
+body a:link {
+	text-decoration: none;
+}
+
+body a:HOVER {
+	text-decoration: none;
+}
+
+body a:VISITED {
+	text-decoration: none;
+}
+
+#login {
+	font-size: 13px
+}
+
+#center {
+	background-color: white;
+	height: 450px;
+}
+
+#bottom {
+	
+}

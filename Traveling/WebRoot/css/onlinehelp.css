@@ -1,0 +1,44 @@
+body a:link {
+	text-decoration: none;
+}
+
+body a:HOVER {
+	text-decoration: none;
+}
+
+body a:VISITED {
+	text-decoration: none;
+}
+
+#link {
+	font-size: 12px;
+}
+
+.top {
+	background-color: white;
+	text-align: right;
+	height: 25px;
+	padding-right: 50px
+}
+
+#center {
+	background-color: white;
+}
+
+#center table {
+	width: 100%;
+}
+
+#center table a:link {
+	padding-left: 50px;
+	font-size: 14px;
+}
+
+#center table b {
+	padding-left: 30px;
+	color: gray;
+}
+
+.padding {
+	padding: 50px;
+}

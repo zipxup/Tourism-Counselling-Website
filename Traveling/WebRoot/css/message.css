@@ -1,0 +1,23 @@
+body {
+	text-decoration: none;
+}
+
+body a:link {
+	text-decoration: none;
+}
+
+body a:HOVER {
+	text-decoration: none;
+}
+
+body a:VISITED {
+	text-decoration: none;
+}
+
+#link {
+	font-size: 13px;
+}
+
+#center {
+	padding-left: 30px
+}

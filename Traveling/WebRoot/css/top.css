@@ -1,0 +1,44 @@
+body {
+	background-color: #ebe8e1;
+	padding-left: 18%;
+	padding-right: 15%;
+}
+
+body a:link {
+	text-decoration: none;
+}
+
+body a:HOVER {
+	text-decoration: none;
+}
+
+body a:VISITED {
+	text-decoration: none;
+}
+
+#top {
+	height: 80px
+}
+
+#nikolp {
+	margin-left: 50px;
+}
+
+#nikolp a:link {
+	text-decoration: none;
+}
+
+#nikolp_tow {
+	padding-left: 50%;
+	clear: none;
+	font-size: 13px;
+}
+
+#span {
+	font-size: 40px;
+}
+
+#a1 {
+	padding-left: 55%;
+	front-size:20px;
+}
